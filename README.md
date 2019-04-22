@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+**This is a cards application that loads, shuffles, and saves a deck and a hand to play cards.**
 
 ## Installation
 
